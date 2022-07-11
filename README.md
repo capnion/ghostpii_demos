@@ -1,2 +1,4 @@
 # ghostpii_demos
-A variety of Jupyter notebooks demonstrating the use and operation of Ghost PII
+This repository contains a variety of Jupyter notebooks demonstrating the use and operation of Ghost PII.  You can learn more about Ghost PII at its main Github repo [here](https://github.com/capnion/ghostpii_client) or run the notebooks via Binder [here](https://mybinder.org/v2/gh/capnion/ghostpii_demos/main).  Both Ghost PII and this repository are maintained by [Capnion, Inc](https://www.capnion.com).
+
+Note that the use of Ghost PII requires a token to identify your user to the [Ghost PII keyhosting service](https://www.ghostpii.com).  Each of the notebooks in this repository shares a token and the use of this token is demonstrated near the top of the notebook.  While you are welcome to use this token, you will need your own token and tokens for any subordinate users in order to test drive the more sophisticated aspects of Ghost PII's permission system.  Tokens are tied to an email address (used for verifying who you are if you lose it, etc.) and can be obtained at the link above.  For more inforrmation please visit the main Ghost PII repository.
