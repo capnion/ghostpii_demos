@@ -20,7 +20,7 @@ ghostpii==1.0.1
     # via -r requirements.in
 greenlet==1.1.2
     # via sqlalchemy
-ipython==8.4.0
+ipython==7.34.0
     # via -r requirements.in
 jedi==0.18.1
     # via ipython
