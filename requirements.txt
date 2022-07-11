@@ -77,7 +77,7 @@ scipy==1.7.3
     #   ghostpii
 six==1.16.0
     # via python-dateutil
-sklearn==1.1.1
+sklearn
 sqlalchemy==1.4.39
     # via ghostpii
 stack-data==0.3.0
