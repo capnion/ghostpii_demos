@@ -16,7 +16,7 @@ executing==0.8.3
     # via stack-data
 fonttools==4.34.4
     # via matplotlib
-ghostpii>=1.0.6
+ghostpii>=1.0.9
     # via -r requirements.in
 greenlet==1.1.2
     # via sqlalchemy
